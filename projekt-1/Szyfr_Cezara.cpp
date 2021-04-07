@@ -76,10 +76,9 @@ int main()
     string haslo = "WiTaM1290";
     cout <<"Podane haslo: " << haslo << endl;
     szyfrCezara(1000, haslo);
-    cout <<"Po zaszyfowaniu dla 1000: " << haslo << endl;
+    cout <<"Po zaszyfowaniu dla klucza 1000: " << haslo << endl;
    //szyfrCezara(-256, haslo);
-   //cout <<"Po zaszyfowaniu dla -256: " << haslo << endl;
-
+   //cout <<"Po zaszyfowaniu dla klucza -256: " << haslo << endl;
 
     return 0;
 }
