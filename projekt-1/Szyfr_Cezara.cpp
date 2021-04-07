@@ -1,5 +1,5 @@
-/*  Przesuniecie o 3 pozycje w alfabecie
-    bierzemy pod uwage male i duze litery oraz liczby   */
+/*  Przesuniecie kazdego znaku o zadana pozycje w alfabecie (klucz)
+    Bierzemy pod uwage male i duze litery oraz liczby   */
 
 #include <iostream>
 #include <string>
