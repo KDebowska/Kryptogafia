@@ -1,12 +1,12 @@
-# Kryptogafia
-ENG BELOW
-#
+# Kryptogafia / Cryptography
+PL
+
 Repozytorium z krótkimi projektami różnych szyfrów.
 
 projekt-1: szyfr Cezara.
 
 #
-ENG Cryptography
+ENG
 
 A repository with short projects for various ciphers.
 
